@@ -102,7 +102,6 @@ Some insights identified during the analysis include:
 
 - Sales show clear **seasonal patterns**, with higher demand during warmer periods.
 - A small number of products generate a **large percentage of total revenue**.
-- Certain stores consistently outperform others, suggesting **regional demand differences**.
 - Monthly sales trends highlight periods of growth and potential opportunities for promotions.
 
 ---
