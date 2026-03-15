@@ -86,13 +86,13 @@ These metrics help identify sales patterns and business opportunities.
 ## Dashboard Preview
 
 ### Sales Overview
-![Dashboard](images/dashboard_overview.png)
+![Dashboard](dashboard_overview.png)
 
 ### Sales Trend
-![Sales Trend](images/sales_trend.png)
+![Sales Trend](sales_trend.png)
 
 ### Product Performance
-![Product Analysis](images/product_analysis.png)
+![Product Analysis](product_analysis.png)
 
 ---
 
